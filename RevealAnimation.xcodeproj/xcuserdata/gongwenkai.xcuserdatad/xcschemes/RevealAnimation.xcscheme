@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "8BE0B9861DFFA79C005A604B"
-               BuildableName = "&#x4f5c;&#x4e1a;3.app"
-               BlueprintName = "&#x4f5c;&#x4e1a;3"
-               ReferencedContainer = "container:&#x4f5c;&#x4e1a;3.xcodeproj">
+               BuildableName = "RevealAnimation.app"
+               BlueprintName = "RevealAnimation"
+               ReferencedContainer = "container:RevealAnimation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8BE0B9861DFFA79C005A604B"
-            BuildableName = "&#x4f5c;&#x4e1a;3.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;3"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;3.xcodeproj">
+            BuildableName = "RevealAnimation.app"
+            BlueprintName = "RevealAnimation"
+            ReferencedContainer = "container:RevealAnimation.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8BE0B9861DFFA79C005A604B"
-            BuildableName = "&#x4f5c;&#x4e1a;3.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;3"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;3.xcodeproj">
+            BuildableName = "RevealAnimation.app"
+            BlueprintName = "RevealAnimation"
+            ReferencedContainer = "container:RevealAnimation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8BE0B9861DFFA79C005A604B"
-            BuildableName = "&#x4f5c;&#x4e1a;3.app"
-            BlueprintName = "&#x4f5c;&#x4e1a;3"
-            ReferencedContainer = "container:&#x4f5c;&#x4e1a;3.xcodeproj">
+            BuildableName = "RevealAnimation.app"
+            BlueprintName = "RevealAnimation"
+            ReferencedContainer = "container:RevealAnimation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

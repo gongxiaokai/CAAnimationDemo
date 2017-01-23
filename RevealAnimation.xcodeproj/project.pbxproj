@@ -22,12 +22,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8BE0B9871DFFA79C005A604B /* 作业3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "作业3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		8BE0B98B1DFFA79C005A604B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		8BE0B98D1DFFA79C005A604B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		8BE0B98E1DFFA79C005A604B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		8BE0B9901DFFA79C005A604B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		8BE0B9911DFFA79C005A604B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		8BE0B9871DFFA79C005A604B /* RevealAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RevealAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8BE0B98B1DFFA79C005A604B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = main.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		8BE0B98D1DFFA79C005A604B /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = AppDelegate.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		8BE0B98E1DFFA79C005A604B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = AppDelegate.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
+		8BE0B9901DFFA79C005A604B /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ViewController.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		8BE0B9911DFFA79C005A604B /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = ViewController.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		8BE0B9941DFFA79C005A604B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8BE0B9961DFFA79C005A604B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BE0B9991DFFA79C005A604B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -37,8 +37,8 @@
 		8BE0B9A31DFFA836005A604B /* ic_skip_previous.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_skip_previous.png; sourceTree = "<group>"; };
 		8BE0B9A41DFFA836005A604B /* ic_stop.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ic_stop.png; sourceTree = "<group>"; };
 		8BE0B9A51DFFA836005A604B /* qotsa.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = qotsa.jpg; sourceTree = "<group>"; };
-		8BE0B9B61DFFAA29005A604B /* ControlPanel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ControlPanel.h; sourceTree = "<group>"; };
-		8BE0B9B71DFFAA2A005A604B /* ControlPanel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ControlPanel.m; sourceTree = "<group>"; };
+		8BE0B9B61DFFAA29005A604B /* ControlPanel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; lineEnding = 0; path = ControlPanel.h; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objcpp; };
+		8BE0B9B71DFFAA2A005A604B /* ControlPanel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = ControlPanel.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +55,7 @@
 		8BE0B97E1DFFA79C005A604B = {
 			isa = PBXGroup;
 			children = (
-				8BE0B9891DFFA79C005A604B /* 作业3 */,
+				8BE0B9891DFFA79C005A604B /* RevealAnimation */,
 				8BE0B9881DFFA79C005A604B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -63,12 +63,12 @@
 		8BE0B9881DFFA79C005A604B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8BE0B9871DFFA79C005A604B /* 作业3.app */,
+				8BE0B9871DFFA79C005A604B /* RevealAnimation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8BE0B9891DFFA79C005A604B /* 作业3 */ = {
+		8BE0B9891DFFA79C005A604B /* RevealAnimation */ = {
 			isa = PBXGroup;
 			children = (
 				8BE0B98D1DFFA79C005A604B /* AppDelegate.h */,
@@ -83,7 +83,7 @@
 				8BE0B99B1DFFA79C005A604B /* Info.plist */,
 				8BE0B98A1DFFA79C005A604B /* Supporting Files */,
 			);
-			path = "作业3";
+			path = RevealAnimation;
 			sourceTree = "<group>";
 		};
 		8BE0B98A1DFFA79C005A604B /* Supporting Files */ = {
@@ -102,9 +102,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8BE0B9861DFFA79C005A604B /* 作业3 */ = {
+		8BE0B9861DFFA79C005A604B /* RevealAnimation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8BE0B99E1DFFA79C005A604B /* Build configuration list for PBXNativeTarget "作业3" */;
+			buildConfigurationList = 8BE0B99E1DFFA79C005A604B /* Build configuration list for PBXNativeTarget "RevealAnimation" */;
 			buildPhases = (
 				8BE0B9831DFFA79C005A604B /* Sources */,
 				8BE0B9841DFFA79C005A604B /* Frameworks */,
@@ -114,9 +114,9 @@
 			);
 			dependencies = (
 			);
-			name = "作业3";
+			name = RevealAnimation;
 			productName = "作业3";
-			productReference = 8BE0B9871DFFA79C005A604B /* 作业3.app */;
+			productReference = 8BE0B9871DFFA79C005A604B /* RevealAnimation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -134,7 +134,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8BE0B9821DFFA79C005A604B /* Build configuration list for PBXProject "作业3" */;
+			buildConfigurationList = 8BE0B9821DFFA79C005A604B /* Build configuration list for PBXProject "RevealAnimation" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -147,7 +147,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8BE0B9861DFFA79C005A604B /* 作业3 */,
+				8BE0B9861DFFA79C005A604B /* RevealAnimation */,
 			);
 		};
 /* End PBXProject section */
@@ -296,7 +296,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "作业3/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/RevealAnimation/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gongwenkai.--3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -307,7 +307,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = "作业3/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/RevealAnimation/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gongwenkai.--3";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8BE0B9821DFFA79C005A604B /* Build configuration list for PBXProject "作业3" */ = {
+		8BE0B9821DFFA79C005A604B /* Build configuration list for PBXProject "RevealAnimation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8BE0B99C1DFFA79C005A604B /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8BE0B99E1DFFA79C005A604B /* Build configuration list for PBXNativeTarget "作业3" */ = {
+		8BE0B99E1DFFA79C005A604B /* Build configuration list for PBXNativeTarget "RevealAnimation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8BE0B99F1DFFA79C005A604B /* Debug */,

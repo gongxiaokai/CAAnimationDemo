@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  作业3
+//  RevealAnimation
 //
 //  Created by gongwenkai on 2016/12/13.
 //  Copyright © 2016年 gongwenkai. All rights reserved.
